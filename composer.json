@@ -1,0 +1,13 @@
+{
+    "name": "php/task",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Asadbek Developer"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^1.1"
+    }
+}

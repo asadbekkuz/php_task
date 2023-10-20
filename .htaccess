@@ -1,0 +1,7 @@
+<Files "connection.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+RewriteEngine On
+RewriteRule ^connection\.php$ /index.php [L,R=301]
